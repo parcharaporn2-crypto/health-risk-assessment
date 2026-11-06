@@ -1,6 +1,8 @@
 # งานที่ 1: ระบบลงทะเบียนและประเมินความเสี่ยงสุขภาพเบื้องต้น
 ### Patient Health Risk Assessment and Registration System
 
+🔗 **ลิงก์เว็บไซต์บน GitHub Pages:** [https://parcharaporn2-crypto.github.io/health-risk-assessment/](https://parcharaporn2-crypto.github.io/health-risk-assessment/)
+
 เว็บแอปพลิเคชันสำหรับการคัดกรองผู้ป่วยเบื้องต้นก่อนเข้ารับการรักษา คำนวณค่าดัชนีมวลกาย (BMI) ประเมินความเสี่ยงสุขภาพตามเกณฑ์มาตรฐาน และออกใบสรุปผลการคัดกรองทางการแพทย์เพื่อลดเวลาการทำงานของเจ้าหน้าที่หน้าร้าน พัฒนาด้วย **React** และ **Material-UI (MUI)**
 
 ---
